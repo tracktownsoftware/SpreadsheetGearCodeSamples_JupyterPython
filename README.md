@@ -1,0 +1,2 @@
+# SpreadsheetGearCodeSamples_JupyterPython
+SpreadsheetGear Python sample code in Jupyter notebooks
