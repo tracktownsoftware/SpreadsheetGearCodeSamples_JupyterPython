@@ -2974,19 +2974,19 @@
             Sets this Region to be the intersection of <strong>src</strong> and the specified coordinates.
             </summary>
         </member>
-        <member name="P:SG.RangeList.UInt16.LastIndex">
+        <member name="P:SG.RangeList.Int32.LastIndex">
             <summary>
             Returns the last index with an entry in this RangeListXFormat or -1 if the rangelist is empty.
             </summary>
         </member>
-        <member name="M:SG.RangeList.UInt16.GetNextChangedIndex(System.Int32)">
+        <member name="M:SG.RangeList.Int32.GetNextChangedIndex(System.Int32)">
             <summary>
             Returns the next starting index after <strong>index</strong> which has a different
             value than index - may be an index with a default value.
             </summary>
             <param name="index">The starting index.</param>
         </member>
-        <member name="M:SG.RangeList.UInt16.SetForSameRange(System.Int32@,System.Int32,System.Int32)">
+        <member name="M:SG.RangeList.Int32.SetForSameRange(System.Int32@,System.Int32,System.Int32)">
             <summary>
             Sets the new XFormat at 'index' and sets the same XFormat for the range
             which had the same starting XFormat as this[index].
