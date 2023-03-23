@@ -1,6 +1,6 @@
 ## *** this is a work-in-progress ***
 
-# SpreadsheetGear code samples for Python and Jupyter Notebooks #
+# SpreadsheetGear code samples for Python in Jupyter Notebooks #
 
 These code samples have been tested in [Visual Studio Code (VSCode)](https://code.visualstudio.com/) for Windows, Linux and MacOS.
 
@@ -10,8 +10,8 @@ These code samples have been tested in [Visual Studio Code (VSCode)](https://cod
 
 ## Options to view and run SpreadsheetGear code samples in this repository: ##
 1. In Github Codespaces use a browser based Visual Studio Code editor (no installation required)
-2. In Github Codespaces using your local VSCode editor (no other installation required) 
-3. Clone this repo and use its devcontainer configuration and your local VSCode editor (you need Docker Desktop to host the devcontainer)
-4. Clone this repo and use your local VSCode editor with all requirements installed.
+2. In Github Codespaces use your local Visual Studio Code editor (no other installation required) 
+3. Clone this repo and use its [devcontainer configuration](https://code.visualstudio.com/docs/devcontainers/create-dev-container) and your local Visual Studio Code editor (you need Docker Desktop to host the devcontainer)
+4. Clone this repo and use your local Visual Studio Code editor with all requirements installed.
 
 
