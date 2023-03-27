@@ -28,6 +28,10 @@ These code samples have been tested in [Visual Studio Code (VSCode)](https://cod
 6. Install [Python Extension for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=ms-python.python)
 7. *Optional -* [Create a Python Virtual Environment](https://code.visualstudio.com/docs/python/environments) for running SpreadsheetGear Python code samples in VSCode.
 8. Clone this repo and open its local folder in VSCode.
+9. In VSCode open a terminal window. Run the following command to install Python packages listed in requirements.txt
+    ```
+    pip3 install --user -r requirements.txt
+    ```
 
 
 
