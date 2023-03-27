@@ -2,12 +2,6 @@
 
 These code samples have been tested in [Visual Studio Code (VSCode)](https://code.visualstudio.com/) for Windows, Linux and MacOS.
 
-### Code samples in Notebooks include: ###
-- [JupyterPython_HelloWorld.ipynb](JupyterPython_HelloWorld.ipynb) - a simple Python SpreadsheetGear code sample
-- [PythonExcelToolsComparison.ipynb](PythonExcelToolsComparison.ipynb) - performance comparison of SpreadsheetGear and other Python Excel tools 
-
-*Note: Viewing these Notebooks on GitHub will present a static HTML view. To use them interactively you need to open them in a Jupyter notebook editor like Visual Studio Code.*
-
 ## Package dependencies for code samples in this repository: ##
 *   **[SpreadsheetGear Engine for .NET](https://www.nuget.org/packages/SpreadsheetGear/9.1.44-beta)** - A Nuget package that is the primary SpreadsheetGear library and provides a core set of APIs to read, write, manipulate and calculate workbooks, build charts, format worksheets and cells, and more. Learn more about SpreadsheetGear products on its [Features Page](https://www.spreadsheetgear.com/Products/Features) and [Comparison Page](https://www.spreadsheetgear.com/Products/Compare).
 *   **[Python.NET](https://pypi.org/project/pythonnet/)** - A Python Package (PyPI) that allows Python code to interact with the .NET CLR and the SpreadsheetGear Engine for .NET.
@@ -32,6 +26,13 @@ These code samples have been tested in [Visual Studio Code (VSCode)](https://cod
 6. Install [Python Extension for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=ms-python.python)
 7. *Optional -* [Create a Python Virtual Environment](https://code.visualstudio.com/docs/python/environments) for running SpreadsheetGear Python code samples in VSCode.
 8. Clone this repo and open its local folder in VSCode.
+
+
+# Python in Jupyter Notebooks code samples include: #
+- [JupyterPython_HelloWorld.ipynb](JupyterPython_HelloWorld.ipynb) - a simple Python SpreadsheetGear code sample
+- [PythonExcelToolsComparison.ipynb](PythonExcelToolsComparison.ipynb) - performance comparison of SpreadsheetGear and other Python Excel tools 
+
+*Note: Viewing these Notebooks on GitHub will present a static HTML view. To use them interactively you need to open them in a Jupyter notebook editor like Visual Studio Code.*
 
 
 
