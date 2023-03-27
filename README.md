@@ -1,5 +1,3 @@
-## *** this is a work-in-progress ***
-
 # SpreadsheetGear code samples for Python in Jupyter Notebooks #
 
 These code samples have been tested in [Visual Studio Code (VSCode)](https://code.visualstudio.com/) for Windows, Linux and MacOS.
