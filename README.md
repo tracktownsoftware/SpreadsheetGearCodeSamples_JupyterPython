@@ -2,7 +2,7 @@
 
 These code samples have been tested in [Visual Studio Code (VSCode)](https://code.visualstudio.com/) for Windows, Linux and MacOS.
 
-### SpreadsheetGear code samples for Python in Jupyter Notebooks include: ###
+### Code samples in Notebooks include: ###
 - [JupyterPython_HelloWorld.ipynb](JupyterPython_HelloWorld.ipynb) - a simple Python SpreadsheetGear code sample
 - [PythonExcelToolsComparison.ipynb](PythonExcelToolsComparison.ipynb) - performance comparison of SpreadsheetGear and other Python Excel tools 
 
