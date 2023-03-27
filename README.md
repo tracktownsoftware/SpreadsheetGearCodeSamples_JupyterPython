@@ -8,7 +8,7 @@ These code samples have been tested in [Visual Studio Code (VSCode)](https://cod
 
 ## Options to run code samples in Github Codespaces or a local Docker Dev Container ##
 - [Open a Github Codespace for this repo in a browser based VSCode editor (No install required)](./docs/SampleCodeInVSCode.md#open-a-github-codespace-for-this-repo-in-a-browser-based-vscode-editor-no-install-required)
-- [Open a Github Codespace for this repo in your local VSCode editor (requires the VSCode extension Github Codespaces)](./docs/SampleCodeInVSCode.md#open-a-github-codespace-for-this-repo-in-your-local-vscode-editor-requires-the-vscode-extension-github-codespaces)
+- [Open a Github Codespace for this repo in your local VSCode editor (requires the VSCode extension Github Codespaces)](./docs/SampleCodeInVSCode.md#open-a-github-codespace-for-this-repo-in-your-local-vscode-editor-only-requires-the-vscode-extension-github-codespaces)
 - [Clone this repo and open a local Dev Container in your VSCode editor (requires Docker Desktop and VSCode Dev Containers extension)](./docs/SampleCodeInVSCode.md#clone-this-repo-and-use-its-devcontainer-configuration-in-your-local-vscode-editor-requires-docker-desktop-and-vscode-dev-containers-extension)
 
 ## Install all requirements and run code samples in Visual Studio Code (no Dev Container) ##
