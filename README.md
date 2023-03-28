@@ -15,7 +15,7 @@ See [SpreadsheetGear code samples for C# in Jupyter Notebooks](https://github.co
 
 ## Run code samples in Visual Studio Code with all requirements installed (no Dev Container) ##
 
-*There is no need to install this list of requirements if using one of the [Github Codespaces or a local Docker Dev Container](#run-code-samples-in-github-codespaces-or-a-local-docker-dev-container) options.*
+*There is no need to install this list of requirements if using [Github Codespaces or a local Docker Dev Container](#run-code-samples-in-github-codespaces-or-a-local-docker-dev-container).*
 
 *These instructions are for SpreadsheetGear code samples for Python in Jupyter Notebooks and should work for Windows, MacOS and Linux*
 
