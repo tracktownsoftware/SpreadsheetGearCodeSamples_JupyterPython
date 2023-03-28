@@ -2,6 +2,8 @@
 
 These code samples have been tested in [Visual Studio Code (VSCode)](https://code.visualstudio.com/) for Windows, Linux and MacOS.
 
+See [SpreadsheetGear code samples for C# in Jupyter Notebooks](https://github.com/tracktownsoftware/SpreadsheetGearCodeSamples_JupyterCSharp) for Jupyter Notebooks that use the C# .NET Interactive kernel. 
+
 ## Package dependencies for code samples in this repository: ##
 *   **[SpreadsheetGear Engine for .NET](https://www.nuget.org/packages/SpreadsheetGear/9.1.44-beta)** - A Nuget package that is the primary SpreadsheetGear library and provides a core set of APIs to read, write, manipulate and calculate workbooks, build charts, format worksheets and cells, and more. Learn more about SpreadsheetGear products on its [Features Page](https://www.spreadsheetgear.com/Products/Features) and [Comparison Page](https://www.spreadsheetgear.com/Products/Compare).
 *   **[Python.NET](https://pypi.org/project/pythonnet/)** - A Python Package (PyPI) that allows Python code to interact with the .NET CLR and the SpreadsheetGear Engine for .NET.
