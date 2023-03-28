@@ -30,7 +30,7 @@ See [SpreadsheetGear code samples for C# in Jupyter Notebooks](https://github.co
 8. *Optional -* [Create a Python3 Virtual Environment](https://code.visualstudio.com/docs/python/environments) for this folder. This will also find and install required Python packages listed in the requirements.txt file from this repo.
 9. You can manually install Python packages using this repo's requirements.txt by opening a terminal window in VSCode and running the command:
     ```
-    pip3 install --user -r requirements.txt
+    pip3 install -r requirements.txt
     ```
 
 
