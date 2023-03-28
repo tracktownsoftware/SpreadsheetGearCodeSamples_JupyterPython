@@ -13,7 +13,7 @@ These code samples have been tested in [Visual Studio Code (VSCode)](https://cod
 
 ## Run code samples in Visual Studio Code with all requirements installed (no Dev Container) ##
 
-*There is no need to install this list of requirements if using one of the [Github Codespaces or a local Docker Dev Container](#options-to-run-code-samples-in-github-codespaces-or-a-local-docker-dev-container) options.*
+*There is no need to install this list of requirements if using one of the [Github Codespaces or a local Docker Dev Container](#run-code-samples-in-github-codespaces-or-a-local-docker-dev-container) options.*
 
 *These instructions are for SpreadsheetGear code samples for Python in Jupyter Notebooks and should work for Windows, MacOS and Linux*
 
