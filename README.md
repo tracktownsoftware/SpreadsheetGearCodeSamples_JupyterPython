@@ -26,9 +26,9 @@ See [SpreadsheetGear code samples for C# in Jupyter Notebooks](https://github.co
     - Ignore the "Getting Started with .NET" prompt to "Install .NET SDK". You already installed it in step 1.
 5. Install [Python](https://www.python.org/) or a "conda" installer like [Anaconda](https://www.anaconda.com/products/distribution) or [MiniConda](https://docs.conda.io/en/latest/miniconda.html) which include Python
 6. Install [Python Extension for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=ms-python.python)
-7. *Optional -* [Create a Python Virtual Environment](https://code.visualstudio.com/docs/python/environments) for running SpreadsheetGear Python code samples in VSCode.
-8. Clone this repo and open its local folder in VSCode.
-9. In VSCode open a terminal window. Run the following command to install Python packages listed in requirements.txt
+7. Clone this repo and open its local folder in VSCode.
+8. *Optional -* [Create a Python Virtual Environment](https://code.visualstudio.com/docs/python/environments) for this folder. This will also find and install required Python packages listed in the requirements.txt file from this repo.
+9. You can manually install Python packages using this repo's requirements.txt by opening a terminal window in VSCode and running the command:
     ```
     pip3 install --user -r requirements.txt
     ```
