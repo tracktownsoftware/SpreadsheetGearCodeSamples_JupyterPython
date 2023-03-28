@@ -8,7 +8,7 @@ See [SpreadsheetGear code samples for C# in Jupyter Notebooks](https://github.co
 *   **[SpreadsheetGear Engine for .NET](https://www.nuget.org/packages/SpreadsheetGear/9.1.44-beta)** - A Nuget package that is the primary SpreadsheetGear library and provides a core set of APIs to read, write, manipulate and calculate workbooks, build charts, format worksheets and cells, and more. Learn more about SpreadsheetGear products on its [Features Page](https://www.spreadsheetgear.com/Products/Features) and [Comparison Page](https://www.spreadsheetgear.com/Products/Compare).
 *   **[Python.NET](https://pypi.org/project/pythonnet/)** - A Python Package (PyPI) that allows Python code to interact with the .NET CLR and the SpreadsheetGear Engine for .NET.
 
-## Run code samples in Github Codespaces##
+## Run code samples in Github Codespaces ##
 - [Open a Github Codespace for this repo in a browser based VSCode editor (No install required)](./docs/SampleCodeInVSCode.md#open-a-github-codespace-for-this-repo-in-a-browser-based-vscode-editor-no-install-required)
 - [Open a Github Codespace for this repo in your local VSCode editor (requires the VSCode extension Github Codespaces)](./docs/SampleCodeInVSCode.md#open-a-github-codespace-for-this-repo-in-your-local-vscode-editor-only-requires-the-vscode-extension-github-codespaces)
 
